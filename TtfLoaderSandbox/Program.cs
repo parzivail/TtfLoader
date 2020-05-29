@@ -11,7 +11,7 @@ namespace TtfLoaderSandbox
     {
         static void Main(string[] args)
         {
-            var font = TrueTypeFont.Load("E:\\Fonts\\In Popular Culture\\The Martian\\CarbonRegular.ttf");
+            var font = TrueTypeFont.Load("E:\\colby\\Desktop\\Winfonts\\AlanaSans.ttf");
         }
     }
 }
